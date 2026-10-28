@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Emitrr is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://emitrr.com/
+Emitrr provides AI-powered communication tools for healthcare and other businesses, offering services such as texting, webchat, reviews, team messaging, VoIP phones, cloud faxing, AI agents, local numbers, online scheduling, digital forms, and more. Their platform aims to streamline patient engagement, improve operational efficiency, and enable 24/7 virtual assistance across various specialties.
+
+**Areas:** Healthcare · AI · Communication · Messaging · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://emitrr.com/)
+- [Blog](https://emitrr.com/blog/)
+- [Security](https://emitrr.com/security/)
+- [Terms of service](https://emitrr.com/terms-of-service/)
+- [Privacy policy](https://emitrr.com/privacy-policy/)
+
+**APIs profiled:** 7
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/emitrr/](https://apis.io/providers/emitrr/).
